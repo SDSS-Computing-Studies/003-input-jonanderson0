@@ -16,8 +16,9 @@
 
 import math
 a = imput("What is the volume of the circle")
-x = a / (4/3)
 a = float(a)
+x = a / (4/3)
+
 x = float(x)
 y = x/math.pi
 z = y**(1/3)
