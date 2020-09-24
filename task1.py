@@ -9,8 +9,8 @@
 # Sample output:
 # Your name is Joe Lunchbox, and your email is joe@koolsandwiches.org.
 
-data = input("enter your name")
+data = input("Joe Lunchbox")
 
-data1 = input ("enter your email")
+data1 = input ("joe@koolsandwiches.org.")
 print(data)
 print(data1)
