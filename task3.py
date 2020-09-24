@@ -21,6 +21,6 @@ c = input("Input third number")
 c = float(c)
 x = c - b
 x = float(x)
-y = b / a
+y = x / a
 print(y)
 
