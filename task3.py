@@ -17,5 +17,7 @@ a = input("Input first number")
 b = input("Input second number")
 c = input("Input third number")
 x = c - b
+x = float(x)
 y = b / a
 print(y)
+
