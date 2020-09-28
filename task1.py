@@ -8,9 +8,7 @@
 #
 # Sample output:
 # Your name is Joe Lunchbox, and your email is joe@koolsandwiches.org.
-
-data = input(".*Your name is Joe Lunchbox/s, ")
-
-data1 = input ("and your email is joe@koolsandwiches.org\.")
-
+name= input("Please enter name")
+email=input("Please enter email")
+print("Your name is " +name+ ", and your email is " +email+".")
 
