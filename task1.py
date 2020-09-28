@@ -9,7 +9,7 @@
 # Sample output:
 # Your name is Joe Lunchbox, and your email is joe@koolsandwiches.org.
 
-data = input("*Your name is Joe Lunchbox/s, ")
+data = input(".*Your name is Joe Lunchbox/s, ")
 
 data1 = input ("and your email is joe@koolsandwiches.org\.")
 
