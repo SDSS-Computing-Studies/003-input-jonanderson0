@@ -15,7 +15,7 @@
 # here you will need to do a power of 1.0/3 or something strange happens.
 
 import math
-a = imput("What is the volume of the circle")
+a = input("What is the volume of the circle")
 a = float(a)
 x = a / (4/3)
 
